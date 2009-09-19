@@ -1,0 +1,148 @@
+﻿1
+00:00:00,000 --> 00:00:04,000
+The Web may seem like a vast ocean when it comes to finding something you need.
+
+2
+00:00:04,000 --> 00:00:08,000
+Thankfully, search engines can help turn oceans of information into small pools
+
+3
+00:00:08,000 --> 00:00:12,000
+that make finding information easier.
+
+4
+00:00:12,000 --> 00:00:16,000
+This is Web Search Strategies in Plain English.
+
+5
+00:00:16,000 --> 00:00:17,000
+Before we dive in,
+
+6
+00:00:17,000 --> 00:00:20,000
+Let's talk a bit about how search works on the Web.
+
+7
+00:00:20,000 --> 00:00:25,000
+Search engines go out and try to account for every word on every web page.
+
+8
+00:00:25,000 --> 00:00:28,000
+All this information is then organized for easy reference.
+
+9
+00:00:28,000 --> 00:00:33,000
+When you search for a word, the search engine finds all the pages where the word appears, 
+
+10
+00:00:33,000 --> 00:00:36,000
+and displays them in the search results.
+
+11
+00:00:36,000 --> 00:00:42,000
+Usually, the pages that appear highest in the search results have lots of other web pages linking to them.
+
+12
+00:00:42,000 --> 00:00:47,000
+Each link acts as a vote to say, "This may be a good resource."
+
+13
+00:00:47,000 --> 00:00:51,000
+The problem is that there are often too many results.
+
+14
+00:00:51,000 --> 00:00:55,000
+You need a way to reduce the number of results so you can find what you need.
+
+15
+00:00:55,000 --> 00:00:57,000
+Let's look at how this works.
+
+16
+00:00:57,000 --> 00:01:04,000
+Say you're looking for a specific kind of fish, and these represent all the websites on the Web.
+
+17
+00:01:04,000 --> 00:01:10,000
+Searching for FISH doesn't help much. There are way too many results. You need to be more specific.
+
+18
+00:01:10,000 --> 00:01:14,000
+Try to imagine the exact fish and describe it in the search box.
+
+19
+00:01:14,000 --> 00:01:18,000
+You'll see that each word you use gets you closer to what you need.
+
+20
+00:01:18,000 --> 00:01:23,000
+You can do this for any website by imagining the website that has your answer.
+
+21
+00:01:23,000 --> 00:01:27,000
+What's the title of the page? What words appear on it?
+
+22
+00:01:27,000 --> 00:01:31,000
+If you put those words in the search box, you'll get closer to finding answers.
+
+23
+00:01:31,000 --> 00:01:35,000
+But to be a smart searcher, you should know some basic shortcuts.
+
+24
+00:01:35,000 --> 00:01:39,000
+Let's say you're looking for words that appear together, like a phrase or a quote.
+
+25
+00:01:39,000 --> 00:01:43,000
+An example is a search for information on sand sharks.
+
+26
+00:01:43,000 --> 00:01:49,000
+If you search for it like this, the search engine looks for pages with SAND and SHARKS. 
+
+27
+00:01:49,000 --> 00:01:53,000
+To get better results, put quotes around the words like this.
+
+28
+00:01:53,000 --> 00:01:56,000
+It limits the results to the exact phrase.
+
+29
+00:01:56,000 --> 00:02:00,000
+Here's another shortcut. Words often have multiple meanings.
+
+30
+00:02:00,000 --> 00:02:05,000
+Consider the word MULLET, which is both a fish and a hairstyle.
+
+31
+00:02:05,000 --> 00:02:11,000
+A search for MULLET may give you a number of results about the hairstyle, but fewer about the fish.
+
+32
+00:02:11,000 --> 00:02:17,000
+To remove the results about hair place a hyphen or minus sign just before the word you want to exclude,
+
+33
+00:02:17,000 --> 00:02:23,000
+which means, "show me the pages about mullet, but take away results relating to hair."
+
+34
+00:02:23,000 --> 00:02:28,000
+By being specific, and using words and symbols that remove useless information,
+
+35
+00:02:28,000 --> 00:02:33,000
+you can find exactly what you need, and keep the Web from swallowing you whole.
+
+36
+00:02:33,000 --> 00:02:39,000
+I'm Lee LeFever and this has been Web Search Strategies in Plain English on the Common Craft Show.
+
+37
+00:02:40,000 --> 00:02:50,000
+The Common Craft Store now offers downloadable versions of our videos for use in the workplace. Find them at CommonCraft.com/store.
+
